@@ -1,2 +1,1 @@
-# quran_dataset
-The Holy Quran (Islam) Dataset
+# The Holy Quran (Islam)
