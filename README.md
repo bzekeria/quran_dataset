@@ -1,5 +1,11 @@
 # Quran
 
+## Table of Contents
+1. [Overview](#overview)
+1. [Disclaimer](#disclamer)
+1. [Other Related Work](#related_work)
+
+<a id='overview'></a>
 ## Overview
 The Quran is the official religious text of Islam. The one and only book for Muslims which has been read and memorized by thousands across the globe in the Arabic language. 
 
@@ -24,6 +30,7 @@ quran_dataset
 └── quran_json_download.py 
 ```
 
+<a id='disclaimer'></a>
 ## Disclaimer
 The data compiled here (```holy_quran.json```) is derived from [Al Quran Cloud API](https://alquran.cloud/api). 
 
@@ -35,6 +42,7 @@ If there's an error (e.g., missing a word, تشكيل/Tashkil (i.e. Arabic vowel
 
 **The data presented does not and will never proceed the Quran.**
 
+<a id='related_work'></a>
 ## Other Related Work
 - [Unique Words for Each Surah](https://github.com/mmayet/quran_sandbox)
 - [Similar Verses in the Quran](https://github.com/jawadshuaib/quran-similarity-search-jupyter-notebooks)
