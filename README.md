@@ -3,8 +3,8 @@
 ```bash
 ├── data
 │   ├── holy_quran.json
-├── ProjectProposalGroup_018-Fa22.ipynb
-└── README.md
+├── README.md
+└── quran_json_download.py
 ```
 
 **In-Progress**
