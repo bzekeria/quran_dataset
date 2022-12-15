@@ -2,8 +2,10 @@
 
 ## Table of Contents
 1. [Overview](#overview)
-1. [Disclaimer](#disclaimer)
-1. [Other Related Work](#related_work)
+   - [Structure of the Quran](#structure)
+   - [Directory Tree](#directory)
+3. [Disclaimer](#disclaimer)
+4. [Other Related Work](#related_work)
 
 <a id='overview'></a>
 ## Overview
@@ -13,7 +15,8 @@ The Quran is the official religious text of Islam. The one and only book for Mus
 
 In this repository, some words in this ```README.md``` and variable names in the respective ```.ipynb```/```.py``` files will be in *Arabic* though written in *English*. Here's a glossary of those terms:
 
-**Structure of the Quran**
+<a id='structure'></a>
+### Structure of the Quran
 - ```Surah```: Chapter (e.g. The Quran has a total of 114 chapters)
 - ```Ayahs```: Verse
 - ```Juz```: Part (i.e. The Quran is divided into 30 parts)
@@ -21,6 +24,8 @@ In this repository, some words in this ```README.md``` and variable names in the
 ![Image](img/quran_data_ch_1-2.png)
 *Mock data. See ```data``` folder for updated dataset*
 
+<a id='directory'></a>
+### Directory Tree
 ```bash
 quran_dataset
 ├── data
