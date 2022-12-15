@@ -12,7 +12,8 @@ In this repository, some words in this ```README.md``` and variable names in the
 - ```Ayahs```: Verse
 - ```Juz```: Part (i.e. The Quran is divided into 30 parts)
 
-![Image](img/quran_data_ch_1-2.png) 
+![Image](img/quran_data_ch_1-2.png)
+*Mock data. See ```data``` folder for updated dataset*
 
 ```bash
 quran_dataset
