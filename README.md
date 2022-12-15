@@ -18,7 +18,7 @@ In this repository, some words in this ```README.md``` and variable names in the
 <a id='structure'></a>
 ### Structure of the Quran
 - ```Surah```: Chapter (e.g. The Quran has a total of 114 chapters)
-- ```Ayahs```: Verse
+- ```Ayah```: Verse
 - ```Juz```: Part (i.e. The Quran is divided into 30 parts)
 
 ![Image](img/quran_data_ch_1-2.png)
