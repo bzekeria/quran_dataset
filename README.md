@@ -25,11 +25,15 @@ quran_dataset
 ```
 
 ## Disclaimer
+The data compiled here (```holy_quran.json```) is derived from [Al Quran Cloud API](https://alquran.cloud/api). 
+
 The purpose and intent of this repository is aid in the *understanding* of the Quran. 
 
-What do I mean by *understanding*? As in there's many data science tools/method one can explore by using this data NOT understanding the text in it of itself as the data compiled here has no features related to that. 
+What do I mean by *understanding*? There are many data science tools/methods one can explore by using this data, NOT understanding the text itself, as the data compiled here has no related features. 
 
-The data compiled here (```holy_quran.json```) is derived from [Al Quran Cloud API](https://alquran.cloud/api). If there's an error (e.g., missing a word, تشكيل (Tashkil) vowelization), one should consult the Quran. **The data presented does not and will never proceed the Quran.**
+If there's an error (e.g., missing a word, تشكيل/Tashkil (i.e. Arabic vowelization), ayahs being out of order, etc.), one should consult the Quran. 
+
+**The data presented does not and will never proceed the Quran.**
 
 ## Other Related Work
 - [Unique Words for Each Surah](https://github.com/mmayet/quran_sandbox)
