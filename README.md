@@ -29,7 +29,7 @@ The purpose and intent of this repository is aid in the *understanding* of the Q
 
 What do I mean by *understanding*? As in there's many data science tools/method one can explore by using this data NOT understanding the text in it of itself as the data compiled here has no features related to that. 
 
-The data compiled here (```holy_quran.json```) is derived from [Al Quran Cloud API](https://alquran.cloud/api). If there's an error (e.g., missing a word, vowelization), one should consult the Quran. **The data presented does not and will never proceed the Quran.**
+The data compiled here (```holy_quran.json```) is derived from [Al Quran Cloud API](https://alquran.cloud/api). If there's an error (e.g., missing a word, تشكيل (Tashkil) vowelization), one should consult the Quran. **The data presented does not and will never proceed the Quran.**
 
 ## Other Related Work
 - [Unique Words for Each Surah](https://github.com/mmayet/quran_sandbox)
