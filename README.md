@@ -50,4 +50,4 @@ If there's an error (e.g., missing a word, تشكيل/Tashkil (i.e. Arabic vowel
 <a id='related_work'></a>
 ## Other Related Work
 - [Unique Words for Each Surah](https://github.com/mmayet/quran_sandbox)
-- [Similar Verses in the Quran](https://github.com/jawadshuaib/quran-similarity-search-jupyter-notebooks)
+- [Quran Similarity Search](https://github.com/jawadshuaib/quran-similarity-search)
