@@ -5,7 +5,7 @@ The Quran is the official religious text of Islam. The one and only book for Mus
 
 *The goal for this repository is to have the Quran in a readeable data format to apply a data science question.*
 
-In this repository, some words in this ```README.md``` and variable names in the respective ```.ipynb```/```.py``` files will be in *Arabic* though written in *English*. Here's a glossary of the variable names:
+In this repository, some words in this ```README.md``` and variable names in the respective ```.ipynb```/```.py``` files will be in *Arabic* though written in *English*. Here's a glossary of those terms:
 
 **Structure of the Quran**
 - ```Surah```: Chapter (e.g. The Quran has a total of 114 chapters)
