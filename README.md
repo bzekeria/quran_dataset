@@ -3,16 +3,21 @@
 ## Overview
 The Quran is the official religious text of Islam. The one and only book for Muslims which has been read and memorized by thousands across the globe in the Arabic language. 
 
-*The goal for this repository to get the Quran in a readeable data format and apply a data science question.*
+*The goal for this repository is to have the Quran in a readeable data format to apply a data science question.*
 
-In this repository, some variable names will be in *Arabic* though written in *English*. Here's a glossary of the variable names:
+In this repository, some words in this ```README.md``` and variable names in the respective ```.ipynb``` files will be in *Arabic* though written in *English*. Here's a glossary of the variable names:
 
-Structure of the Quran
+**Structure of the Quran**
 - ```Surah```: Chapter (e.g. The Quran has a total of 114 chapters)
 - ```Ayahs```: Verse
 - ```Juz```: Part (i.e. The Quran is divided into 30 parts)
 
+![Image](img/quran_data_ch_1-2.png) 
+The way to read this mock data (see ```data``` once updated):
+- سُورَةُ ٱلْفَاتِحَةِ (Al-Faatiha) means "The Opening". This surah was revelead in Mecca and contains 7 ayahs.
+
 ```bash
+quran_dataset
 ├── data
 │   ├── holy_quran.json 
 ├── README.md
