@@ -1,4 +1,4 @@
-# Quran (Islam)
+# Quran
 
 ## Overview
 The Quran is the official religious text of Islam. The one and only book for Muslims which has been read and memorized by thousands across the globe in the Arabic language. 
@@ -13,8 +13,6 @@ In this repository, some words in this ```README.md``` and variable names in the
 - ```Juz```: Part (i.e. The Quran is divided into 30 parts)
 
 ![Image](img/quran_data_ch_1-2.png) 
-The way to read this mock data (see ```data``` once updated):
-- سُورَةُ ٱلْفَاتِحَةِ (Al-Faatiha) means "The Opening". This surah was revelead in Mecca and contains 7 ayahs.
 
 ```bash
 quran_dataset
