@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Overview](#overview)
-1. [Disclaimer](#disclamer)
+1. [Disclaimer](#disclaimer)
 1. [Other Related Work](#related_work)
 
 <a id='overview'></a>
