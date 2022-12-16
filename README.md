@@ -54,13 +54,13 @@ quran_dataset
 ## Disclaimer
 The data compiled here (```holy_quran.json```) is derived from [Al Quran Cloud API](https://alquran.cloud/api). 
 
-The purpose and intent of this repository is aid in the *understanding* of the Quran. 
+The purpose and intent of this repository is to aid in the *understanding* of the Quran. 
 
 What do I mean by *understanding*? There are many data science tools/methods one can explore by using this data, NOT understanding the text itself, as the data compiled here has no related features. 
 
-If there's an error (e.g., missing a word, تشكيل/Tashkil (i.e. Arabic vowelization), ayahs being out of order, etc.), one should consult the Quran. 
+If there's an error in the ```ayahs``` column (e.g., missing a word, تشكيل/Tashkil (i.e. Arabic vowelization), ayahs being out of order, etc.), one should consult the Quran as that's the only correct source. 
 
-**The data presented does not and will never proceed the Quran.**
+**The data presented does not and will never precede the Quran.**
 
 <a id='related_work'></a>
 ## Other Related Work
