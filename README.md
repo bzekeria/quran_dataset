@@ -33,10 +33,10 @@ quran_dataset
 │   ├── holy_quran.json 
 │   ├── surahs # CSV file for all 114 surahs
 ├── img
-│   ├── holy_quran.json # for README.md
+│   ├── quran_data_ch_1-2.png # for README.md
 ├── README.md
 ├── quran_df.ipynb # in-progress
-├── quran_df.py
+├── quran_df.py # in-progress
 ├── quran_json_download.py 
 ├── surah_df.ipynb
 └── surah_df.py 
