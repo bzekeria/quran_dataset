@@ -44,12 +44,11 @@ quran_dataset
 
 <a id='instructions'></a>
 ## Instructions
-1. Click on "Code" to download this repo
 1. Create the following folders/subfolders locally
    - ```data```
    - ```data/surahs```
 1. Install the following libraries: ```json```, ```numpy```, ```pandas```, ```requests```, ```scipy```
-1. Run ```quran_df.py``` and/or ```surah_df.py```
+1. Run ```quran_df.py``` (Quran CSV file) and/or ```surah_df.py``` (Surah CSV file. If you want data for multiple surah, simply run the file again)
 
 <a id='disclaimer'></a>
 ## Disclaimer
