@@ -4,6 +4,7 @@
 1. [Overview](#overview)
    - [Structure of the Quran](#structure)
    - [Directory Tree](#directory)
+2. [Instructions](#instructions)
 3. [Disclaimer](#disclaimer)
 4. [Other Related Work](#related_work)
 
@@ -30,10 +31,25 @@ In this repository, some words in this ```README.md``` and variable names in the
 quran_dataset
 ├── data
 │   ├── holy_quran.json 
+│   ├── surahs # CSV file for all 114 surahs
+├── img
+│   ├── holy_quran.json # for README.md
 ├── README.md
-├── quran_json_df.ipynb # in-progress
-└── quran_json_download.py 
+├── quran_df.ipynb # in-progress
+├── quran_df.py
+├── quran_json_download.py 
+├── surah_df.ipynb
+└── surah_df.py 
 ```
+
+<a id='instructions'></a>
+## Instructions
+1. Click on "Code" to download this repo
+1. Create the following folders/subfolders locally
+   - ```data```
+   - ```data/surahs```
+1. Install the following libraries: ```json```, ```numpy```, ```pandas```, ```requests```, ```scipy```
+1. Run ```quran_df.py``` and/or ```surah_df.py```
 
 <a id='disclaimer'></a>
 ## Disclaimer
