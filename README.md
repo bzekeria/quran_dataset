@@ -48,7 +48,7 @@ quran_dataset
    - ```data```
    - ```data/surahs```
 1. Install the following libraries: ```json```, ```numpy```, ```pandas```, ```requests```, ```scipy```
-1. Run ```quran_df.py``` (Quran CSV file) and/or ```surah_df.py``` (Surah CSV file. If you want data for multiple surah, simply run the file again)
+1. Run ```quran_df.py``` (Quran CSV file) and/or ```surah_df.py``` (Surah CSV file. If you want data for multiple surahs, simply run the file again)
 
 <a id='disclaimer'></a>
 ## Disclaimer
